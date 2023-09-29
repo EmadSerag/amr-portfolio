@@ -80,7 +80,7 @@ html::-webkit-scrollbar {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-clip: content-box;
-  }
+background-attachment: fixed;  }
 /* .img-about{
 	object-fit: cover;
 	width: 430px;
